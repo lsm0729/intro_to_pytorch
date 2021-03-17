@@ -1,0 +1,12 @@
+
+PCA 성질 설명
+
+
+https://stats.stackexchange.com/questions/110508/questions-on-pca-when-are-pcs-independent-why-is-pca-sensitive-to-scaling-why
+
+
+
+
+아이젠 벡터 아이젠 벨류
+
+https://www.youtube.com/watch?v=PFDu9oVAE-g

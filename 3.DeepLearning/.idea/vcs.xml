@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/1. intro to Neural Networks/Lab Analyzing Student Data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1. intro to Neural Networks/Lab Analyzing Student Data/reinforcement/gym" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1. intro to Neural Networks/gradient descent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1. intro to Neural Networks/gradient descent/reinforcement/gym" vcs="Git" />
+  </component>
+</project>
